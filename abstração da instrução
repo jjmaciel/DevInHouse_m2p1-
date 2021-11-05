@@ -1,0 +1,54 @@
+Seja bem vindo(a) à BATALHA FINAL!
+[escolha do nível de dificuldade]
+
+[escolha nome e sexo]
+
+[escolha uma classe de combate]
+
+[escolha uma arma, dentre as disponíveis para sua classe]
+
+[Escolha sua motivação para invadir a caverna do inimigo e derrotá-lo: VINGANÇA, GLÓRIA]
+
+[seguir em frente ou desistir]
+
+[andando cuidadosamente, correndo, saltando]
+
+	[toma dano utilizando mecanismo de ataque descrito abaixo, porém o rolamento de dados é só de 1-10]
+
+	PORTA DIREITA:
+
+		[entra no loop de combate]
+
+		[jogador escolhe pegar ou não as armaduras novas.
+		Se escolher pegar, o jogo deve exibir a mensagem: “Você resolve usar os equipamentos do
+		inimigo contra ele, e trocar algumas peças suas, que estavam danificadas, pelas peças de
+		armaduras existentes na sala. De armadura nova, você se sente mais protegido para os desafios
+		à sua frente.” O jogo deve acrescentar +5 pontos de defesa para o jogador.
+		Se escolher não pegar, o jogo deve exibir a mensagem: “Você decide que não precisa utilizar
+		nada que venha das mãos do inimigo.”]
+
+	PORTA ESQUERDA:
+
+		[entra no loop de combate]
+
+		[jogador escolhe entre beber ou não. Se beber, o jogo exibe a mensagem: “Você se sente
+		revigorado para seguir adiante!” e recupera 100% dos pontos de vida do jogador. Se não beber, o
+		jogo exibe a mensagem: “Você fica receoso de beber algo produzido pelo inimigo”.]
+
+	PORTA FINAL:
+
+		[jogador deve decidir se ataca ou espera]
+		[entra no loop de combate]
+
+		Você conseguiu!
+		{MENSAGEM DE VITÓRIA DE ACORDO COM A MOTIVAÇÃO}
+		VINGANÇA: Você obteve sua vingança. Você se ajoelha e cai no choro, invadido por uma
+		sensação de alívio e felicidade. Você se vingou, tudo que sempre quis, está feito. Agora você
+		pode seguir sua vida.
+		GLÓRIA: O êxtase em que você se encontra não cabe dentro de si. Você se ajoelha e grita de
+		alegria. A glória o aguarda, você a conquistou.
+
+	
+
+	
+
