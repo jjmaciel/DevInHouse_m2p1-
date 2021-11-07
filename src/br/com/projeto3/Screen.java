@@ -43,7 +43,7 @@ public class Screen {
 	}
 
 	public void VictoryMessage(Player player){
-		System.out.println(String.format("\n\t Jogador, você teve sua %s conforme foi o seu desejo e motivação por esta batalha\n"), player.getMotivation());
+		System.out.println(String.format("\n\t Jogador, você teve sua %s conforme foi o seu desejo e motivação por esta batalha\n", player.getMotivation()));
 		System.out.println("################################################################################################");
 		System.out.println("#                                                                                              #");
 		System.out.println("# Os prisioneiros estão muito felizes com a derrota do Lider e em poderem voltar para casa!!   #");

@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 
 import br.com.projeto3.Battle;
-import br.com.projeto3.Player;
 import br.com.projeto3.Warrior;
 import br.com.projeto3.enums.EnumCharacterAdversary;
 import br.com.projeto3.enums.EnumWeapon;
