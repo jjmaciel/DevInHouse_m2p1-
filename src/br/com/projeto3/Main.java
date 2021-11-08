@@ -55,23 +55,6 @@ public class Main {
 		
 		square_room.SquareRoomInitail(player);
 		
-		
-			
-		
-			
-		
-//		System.out.println(player.getQuality_life());
-//		System.out.println(player.getName());
-//		System.out.println(player.getSex());
-//		System.out.println(player.getCharacter());
-//		System.out.println(player.getWeapon());
-//		System.out.println(player.getDifficulty());
-//		System.out.println(player.getMotivation());
-//		System.out.println(player.getStartGame());
-//		System.out.println(player.getKey());
-		
-		
-		System.out.println();
 	}
 
 }

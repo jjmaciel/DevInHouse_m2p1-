@@ -1,6 +1,5 @@
 package br.com.projeto3;
 
-import java.util.List;
 
 // Classe que herda da classe warrior que define os adversários e o jogador
 // no entanto o jogador tem mais informações, por isso uma classe separada para tal.
